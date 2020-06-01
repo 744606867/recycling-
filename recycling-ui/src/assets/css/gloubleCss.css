@@ -1,0 +1,9 @@
+body,html,#app{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+
+}
+.el-breadcrumb{
+     margin-bottom: 15px;
+}
